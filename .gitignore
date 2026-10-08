@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# PDF files
+data/*.pdf
+
+# SQLite database
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+
+# FAISS index
+data/*.index
